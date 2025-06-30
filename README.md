@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=600&height=60&lines=Hello!+I'm+Carlos+Merino+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+Architect+%F0%9F%8E%AF;Cloud+Engineer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=600&height=60&lines=Hello!+I'm+Carlos+Merino+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+Architect+%F0%9F%8E%AF;Cloud+Engineer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%92%A1" alt="Typing SVV" />
 </h1>
 
 <div align="center">
@@ -263,32 +263,22 @@ fun_fact: I love turning coffee into code! ☕→💻
 
 <div align="center">
   <a href="mailto:merino.cd.2003@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-merino.cd.2003@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" />
   </a>
-  <br>
   <a href="https://linkedin.com/in/carlos-merino-dev">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Carlos%20Merino-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4" />
   </a>
   <a href="https://github.com/DevMerino-XYZ">
-    <img src="https://img.shields.io/badge/💻%20GitHub-DevMerino--XYZ-FFD93D?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-FFD93D?style=for-the-badge&logo=github&logoColor=black&labelColor=FFD93D" />
   </a>
-  <br>
   <a href="https://twitter.com/DevMerino">
-    <img src="https://img.shields.io/badge/🐦%20Twitter-@DevMerino-45B7D1?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white&labelColor=45B7D1" />
   </a>
-  <a href="https://wa.me/5216621234567">
-    <img src="https://img.shields.io/badge/📱%20WhatsApp-Available-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/💬%20Response%20Time-Usually%20within%2024h-96CEB4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍%20Timezone-GMT--7%20(MST)-FF9F43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼%20Status-Open%20to%20opportunities-6C5CE7?style=for-the-badge" />
 </div>
 
 <br>
+
+
 
 <div align="center">
   <h3>💭 Quote of the Day</h3>
@@ -299,7 +289,7 @@ fun_fact: I love turning coffee into code! ☕→💻
 
 <div align="center">
   <h3>🎵 Currently Coding To</h3>
-  <a href="https://open.spotify.com/user/carlosmerino">
+  <a href="https://open.spotify.com/playlist/4h0o5PlyMQs1NF59LbkL7N?si=661216ea62174776">
     <img src="https://novatorem-kohl-ten.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
   <br><br>
