@@ -74,6 +74,41 @@ fun_fact: I love turning coffee into code! ☕→💻
 ---
 
 <div align="center">
+  <h2>🔥 <span style="color: #FF6B6B;">Real-Time Activity</span> 🔥</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100px" />
+        <br><b>🚀 Current Focus</b>
+        <br>Building Computer Vision APIs
+        <br><code>Python • OpenCV • FastAPI</code>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100px" />
+        <br><b>📚 Learning Now</b>
+        <br>Kubernetes & Microservices
+        <br><code>DevOps • Cloud Architecture</code>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100px" />
+        <br><b>🎯 Next Goal</b>
+        <br>AWS Solutions Architect
+        <br><code>Certification • Cloud Mastery</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMerino-XYZ&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Activity%20Pulse" width="95%" />
+</div>
+
+---
+
+<div align="center">
   <h2>🏆 <span style="color: #FFD93D;">GitHub Analytics</span> 🏆</h2>
 </div>
 
@@ -144,37 +179,43 @@ fun_fact: I love turning coffee into code! ☕→💻
     <tr>
       <td>
         <h3>💻 Programming</h3>
-        <img src="https://skillicons.dev/icons?i=python,js,dart&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,js,dart,java,cpp&theme=dark" />
         <br><br>
         <img src="https://progress-bar.dev/90/?scale=100&title=Python&width=200&color=3776ab" />
         <img src="https://progress-bar.dev/85/?scale=100&title=JavaScript&width=200&color=f7df1e" />
         <img src="https://progress-bar.dev/80/?scale=100&title=Dart&width=200&color=0175c2" />
+        <img src="https://progress-bar.dev/75/?scale=100&title=Java&width=200&color=ed8b00" />
+        <img src="https://progress-bar.dev/70/?scale=100&title=C%2B%2B&width=200&color=00599c" />
       </td>
       <td>
         <h3>🌐 Frameworks</h3>
-        <img src="https://skillicons.dev/icons?i=react,angular,laravel&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,angular,laravel,django,fastapi&theme=dark" />
         <br><br>
         <img src="https://progress-bar.dev/88/?scale=100&title=React&width=200&color=61dafb" />
         <img src="https://progress-bar.dev/85/?scale=100&title=Angular&width=200&color=dd0031" />
         <img src="https://progress-bar.dev/82/?scale=100&title=Laravel&width=200&color=ff2d20" />
+        <img src="https://progress-bar.dev/80/?scale=100&title=Django&width=200&color=092e20" />
+        <img src="https://progress-bar.dev/78/?scale=100&title=FastAPI&width=200&color=009688" />
       </td>
     </tr>
     <tr>
       <td>
         <h3>☁️ Cloud & DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform&theme=dark" />
         <br><br>
         <img src="https://progress-bar.dev/85/?scale=100&title=AWS&width=200&color=ff9900" />
         <img src="https://progress-bar.dev/80/?scale=100&title=Docker&width=200&color=2496ed" />
         <img src="https://progress-bar.dev/75/?scale=100&title=Kubernetes&width=200&color=326ce5" />
+        <img src="https://progress-bar.dev/70/?scale=100&title=Terraform&width=200&color=623ce4" />
       </td>
       <td>
         <h3>🗄️ Databases</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
         <br><br>
         <img src="https://progress-bar.dev/90/?scale=100&title=MySQL&width=200&color=4479a1" />
         <img src="https://progress-bar.dev/85/?scale=100&title=PostgreSQL&width=200&color=336791" />
         <img src="https://progress-bar.dev/80/?scale=100&title=MongoDB&width=200&color=47a248" />
+        <img src="https://progress-bar.dev/75/?scale=100&title=Redis&width=200&color=dc382d" />
       </td>
     </tr>
   </table>
@@ -222,17 +263,29 @@ fun_fact: I love turning coffee into code! ☕→💻
 
 <div align="center">
   <a href="mailto:merino.cd.2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" />
+    <img src="https://img.shields.io/badge/📧%20Email-merino.cd.2003@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br>
   <a href="https://linkedin.com/in/carlos-merino-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Carlos%20Merino-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DevMerino-XYZ">
-    <img src="https://img.shields.io/badge/GitHub-FFD93D?style=for-the-badge&logo=github&logoColor=black&labelColor=FFD93D" />
+    <img src="https://img.shields.io/badge/💻%20GitHub-DevMerino--XYZ-FFD93D?style=for-the-badge&logo=github&logoColor=black" />
   </a>
+  <br>
   <a href="https://twitter.com/DevMerino">
-    <img src="https://img.shields.io/badge/Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white&labelColor=45B7D1" />
+    <img src="https://img.shields.io/badge/🐦%20Twitter-@DevMerino-45B7D1?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://wa.me/5216621234567">
+    <img src="https://img.shields.io/badge/📱%20WhatsApp-Available-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/💬%20Response%20Time-Usually%20within%2024h-96CEB4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍%20Timezone-GMT--7%20(MST)-FF9F43?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼%20Status-Open%20to%20opportunities-6C5CE7?style=for-the-badge" />
 </div>
 
 <br>
@@ -246,7 +299,13 @@ fun_fact: I love turning coffee into code! ☕→💻
 
 <div align="center">
   <h3>🎵 Currently Coding To</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+  <a href="https://open.spotify.com/user/carlosmerino">
+    <img src="https://novatorem-kohl-ten.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/🎧%20Favorite%20Genre-Lo--Fi%20Hip%20Hop-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎵%20Coding%20Playlist-Deep%20Focus-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔊%20Volume-Always%2011-FFD93D?style=for-the-badge" />
 </div>
 
 ---
