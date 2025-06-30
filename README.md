@@ -146,138 +146,88 @@ fun_fact: I love turning coffee into code! ☕→💻
 
 </div>
 
-## 🛠️ **Development Roadmap - 10 Full-Stack Projects**
+## 🛠️ **Development Roadmap - Full-Stack Portfolio**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🟢%20Phase%201-Basic--Intermediate-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🟡%20Phase%202-Intermediate--Advanced-FFC107?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🟠%20Phase%203-Advanced-FF9800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔴%20Phase%204-Expert-F44336?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/DevMerino-XYZ?style=for-the-badge&logo=github&label=TOTAL%20REPOS&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/PORTFOLIO%20PROJECTS-10%20PLANNED-4ECDC4?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/DEVELOPMENT%20STATUS-ACTIVE-45B7D1?style=for-the-badge&logo=code" />
 </div>
 
-### 🟢 **Phase 1: Foundation Projects** (Basic - Intermediate)
+### 🟢 **Phase 1: Foundation** 
+<div align="center">
+  <img src="https://img.shields.io/badge/Difficulty-Basic%20to%20Intermediate-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progress-1%2F2%20Complete-4CAF50?style=flat-square" />
+</div>
+
+| Project | Status | Tech Stack | Repository |
+|---------|--------|------------|------------|
+| 💰 **Personal Finance Platform** | ![In Development](https://img.shields.io/badge/IN%20DEVELOPMENT-yellow?style=flat-square) | `React • FastAPI • PostgreSQL • Flutter` | [📂 Repository](https://github.com/DevMerino-XYZ/personal-finance-platform) |
+| 🍽️ **Smart Restaurant Reservations** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `Angular • Django • PostgreSQL • Flutter` | [📂 Repository](https://github.com/DevMerino-XYZ/smart-restaurant-reservations) |
+
+### 🟡 **Phase 2: Intermediate**
+<div align="center">
+  <img src="https://img.shields.io/badge/Difficulty-Intermediate%20to%20Advanced-FFC107?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progress-0%2F3%20Complete-FFC107?style=flat-square" />
+</div>
+
+| Project | Status | Tech Stack | Repository |
+|---------|--------|------------|------------|
+| 📋 **Task Management System** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `React • FastAPI • WebSockets • Docker` | [📂 Repository](https://github.com/DevMerino-XYZ/task-management-system) |
+| 🏥 **Health & Wellness AI** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `Flutter • FastAPI • TensorFlow • AWS` | [📂 Repository](https://github.com/DevMerino-XYZ/health-wellness-ai-app) |
+| 💼 **Freelance Marketplace** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `React • Django • PostgreSQL • Redis` | [📂 Repository](https://github.com/DevMerino-XYZ/freelance-marketplace) |
+
+### 🟠 **Phase 3: Advanced**
+<div align="center">
+  <img src="https://img.shields.io/badge/Difficulty-Advanced-FF9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progress-0%2F3%20Complete-FF9800?style=flat-square" />
+</div>
+
+| Project | Status | Tech Stack | Repository |
+|---------|--------|------------|------------|
+| 🎓 **Real-time Learning Platform** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `Angular • Django • Kubernetes • Redis` | [📂 Repository](https://github.com/DevMerino-XYZ/realtime-learning-platform) |
+| 🔒 **Facial Recognition Access** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `React • FastAPI • OpenCV • FaceNet` | [📂 Repository](https://github.com/DevMerino-XYZ/facial-recognition-access) |
+| 📈 **Infrastructure Monitoring** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `React • Python • Prometheus • Docker` | [📂 Repository](https://github.com/DevMerino-XYZ/infrastructure-monitoring) |
+
+### 🔴 **Phase 4: Expert**
+<div align="center">
+  <img src="https://img.shields.io/badge/Difficulty-Expert%20Level-F44336?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progress-0%2F2%20Complete-F44336?style=flat-square" />
+</div>
+
+| Project | Status | Tech Stack | Repository |
+|---------|--------|------------|------------|
+| 📦 **Computer Vision Inventory** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `React • FastAPI • TensorFlow • OpenCV • MongoDB` | [📂 Repository](https://github.com/DevMerino-XYZ/computer-vision-inventory) |
+| 🎥 **Video Analytics Dashboard** | ![Planned](https://img.shields.io/badge/PLANNED-lightgrey?style=flat-square) | `React • FastAPI • PyTorch • AWS S3 • Redis` | [📂 Repository](https://github.com/DevMerino-XYZ/video-analytics-dashboard) |
+
+## 📊 **Development Progress**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMerino-XYZ&show_icons=true&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0d1117&custom_title=Portfolio%20Development%20Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMerino-XYZ&theme=radical&hide_border=true&stroke=FFD93D&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FFD93D" width="49%" />
+</div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="300px">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" />
-        <br><b>💰 Personal Finance Platform</b>
-        <br><img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
-        <br>Expense tracking with AI insights
-        <br><code>React • FastAPI • PostgreSQL • Flutter</code>
-        <br><a href="https://github.com/DevMerino-XYZ/personal-finance-platform">🔗 Repository</a>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🟢%20FOUNDATION-1%2F2%20PROJECTS-4CAF50?style=for-the-badge" />
+        <br><sub>Personal Finance Platform ✅</sub>
       </td>
-      <td align="center" width="300px">
-        <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100px" />
-        <br><b>🍽️ Smart Restaurant Reservations</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>AI-powered reservation system
-        <br><code>Angular • Django • PostgreSQL • Flutter</code>
-        <br><a href="#">🔗 Coming Soon</a>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🟡%20INTERMEDIATE-0%2F3%20PROJECTS-FFC107?style=for-the-badge" />
+        <br><sub>Coming Next Quarter</sub>
       </td>
-    </tr>
-  </table>
-</div>
-
-### 🟡 **Phase 2: Intermediate Projects** (Intermediate - Advanced)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250px">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px" />
-        <br><b>📋 Task Management System</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>Asana/Trello clone with real-time features
-        <br><code>React • FastAPI • WebSockets • Docker</code>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🟠%20ADVANCED-0%2F3%20PROJECTS-FF9800?style=for-the-badge" />
+        <br><sub>Advanced Features</sub>
       </td>
-      <td align="center" width="250px">
-        <img src="https://media.giphy.com/media/l4FGJODwB6guNDtgY/giphy.gif" width="80px" />
-        <br><b>🏥 Health & Wellness AI App</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>AI health predictions and recommendations
-        <br><code>Flutter • FastAPI • TensorFlow • AWS</code>
-      </td>
-      <td align="center" width="250px">
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80px" />
-        <br><b>💼 Freelance Marketplace</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>Complete freelance services platform
-        <br><code>React • Django • PostgreSQL • Redis</code>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔴%20EXPERT-0%2F2%20PROJECTS-F44336?style=for-the-badge" />
+        <br><sub>AI & Computer Vision</sub>
       </td>
     </tr>
   </table>
-</div>
-
-### 🟠 **Phase 3: Advanced Projects** (Advanced)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250px">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px" />
-        <br><b>🎓 Real-time Learning Platform</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>Live courses with video streaming
-        <br><code>Angular • Django • Kubernetes • Redis</code>
-      </td>
-      <td align="center" width="250px">
-        <img src="https://media.giphy.com/media/3oKIPjzKFhJ2p7Zei4/giphy.gif" width="80px" />
-        <br><b>🔒 Facial Recognition Access</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>Smart access control system
-        <br><code>React • FastAPI • OpenCV • FaceNet</code>
-      </td>
-      <td align="center" width="250px">
-        <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="80px" />
-        <br><b>📈 Infrastructure Monitoring</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>Real-time server monitoring with alerts
-        <br><code>React • Python • Prometheus • Docker</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🔴 **Phase 4: Expert Projects** (Expert Level)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="400px">
-        <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100px" />
-        <br><b>📦 Computer Vision Inventory System</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>AI-powered product detection and inventory management
-        <br><code>React • FastAPI • TensorFlow • OpenCV • MongoDB</code>
-      </td>
-      <td align="center" width="400px">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" />
-        <br><b>🎥 Real-time Video Analytics Dashboard</b>
-        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
-        <br>Advanced video processing with ML insights
-        <br><code>React • FastAPI • PyTorch • AWS S3 • Redis</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 **Portfolio Progress**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>🟢 Foundation</b><br>2/2 Projects<br><progress value="20" max="100"></progress><br>20% Complete</td>
-      <td align="center"><b>🟡 Intermediate</b><br>0/3 Projects<br><progress value="0" max="100"></progress><br>0% Complete</td>
-      <td align="center"><b>🟠 Advanced</b><br>0/3 Projects<br><progress value="0" max="100"></progress><br>0% Complete</td>
-      <td align="center"><b>🔴 Expert</b><br>0/2 Projects<br><progress value="0" max="100"></progress><br>0% Complete</td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Total%20Portfolio%20Progress-2%2F10%20Projects-FF6B6B?style=for-the-badge&logo=github" />
 </div>
 
 ## 🛠️ **Current Focus**
