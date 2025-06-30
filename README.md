@@ -128,8 +128,11 @@ fun_fact: I love turning coffee into code! ☕→💻
 ---
 
 <div align="center">
-  <h2>🎯 <span style="color: #FF6B6B;">Featured Projects</span> 🎯</h2>
+  <h2>🎯 <span style="color: #FF6B6B;">Featured Projects Portfolio</span> 🎯</h2>
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80">
 </div>
+
+## 🚀 **Current Production Projects**
 
 <div align="center">
 
@@ -142,6 +145,142 @@ fun_fact: I love turning coffee into code! ☕→💻
 </a>
 
 </div>
+
+## 🛠️ **Development Roadmap - 10 Full-Stack Projects**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🟢%20Phase%201-Basic--Intermediate-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟡%20Phase%202-Intermediate--Advanced-FFC107?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟠%20Phase%203-Advanced-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔴%20Phase%204-Expert-F44336?style=for-the-badge" />
+</div>
+
+### 🟢 **Phase 1: Foundation Projects** (Basic - Intermediate)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300px">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" />
+        <br><b>💰 Personal Finance Platform</b>
+        <br><img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
+        <br>Expense tracking with AI insights
+        <br><code>React • FastAPI • PostgreSQL • Flutter</code>
+        <br><a href="https://github.com/DevMerino-XYZ/personal-finance-platform">🔗 Repository</a>
+      </td>
+      <td align="center" width="300px">
+        <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100px" />
+        <br><b>🍽️ Smart Restaurant Reservations</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>AI-powered reservation system
+        <br><code>Angular • Django • PostgreSQL • Flutter</code>
+        <br><a href="#">🔗 Coming Soon</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🟡 **Phase 2: Intermediate Projects** (Intermediate - Advanced)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px" />
+        <br><b>📋 Task Management System</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>Asana/Trello clone with real-time features
+        <br><code>React • FastAPI • WebSockets • Docker</code>
+      </td>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/l4FGJODwB6guNDtgY/giphy.gif" width="80px" />
+        <br><b>🏥 Health & Wellness AI App</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>AI health predictions and recommendations
+        <br><code>Flutter • FastAPI • TensorFlow • AWS</code>
+      </td>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80px" />
+        <br><b>💼 Freelance Marketplace</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>Complete freelance services platform
+        <br><code>React • Django • PostgreSQL • Redis</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🟠 **Phase 3: Advanced Projects** (Advanced)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px" />
+        <br><b>🎓 Real-time Learning Platform</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>Live courses with video streaming
+        <br><code>Angular • Django • Kubernetes • Redis</code>
+      </td>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/3oKIPjzKFhJ2p7Zei4/giphy.gif" width="80px" />
+        <br><b>🔒 Facial Recognition Access</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>Smart access control system
+        <br><code>React • FastAPI • OpenCV • FaceNet</code>
+      </td>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="80px" />
+        <br><b>📈 Infrastructure Monitoring</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>Real-time server monitoring with alerts
+        <br><code>React • Python • Prometheus • Docker</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🔴 **Phase 4: Expert Projects** (Expert Level)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400px">
+        <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="100px" />
+        <br><b>📦 Computer Vision Inventory System</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>AI-powered product detection and inventory management
+        <br><code>React • FastAPI • TensorFlow • OpenCV • MongoDB</code>
+      </td>
+      <td align="center" width="400px">
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" />
+        <br><b>🎥 Real-time Video Analytics Dashboard</b>
+        <br><img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" />
+        <br>Advanced video processing with ML insights
+        <br><code>React • FastAPI • PyTorch • AWS S3 • Redis</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 **Portfolio Progress**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🟢 Foundation</b><br>2/2 Projects<br><progress value="20" max="100"></progress><br>20% Complete</td>
+      <td align="center"><b>🟡 Intermediate</b><br>0/3 Projects<br><progress value="0" max="100"></progress><br>0% Complete</td>
+      <td align="center"><b>🟠 Advanced</b><br>0/3 Projects<br><progress value="0" max="100"></progress><br>0% Complete</td>
+      <td align="center"><b>🔴 Expert</b><br>0/2 Projects<br><progress value="0" max="100"></progress><br>0% Complete</td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Total%20Portfolio%20Progress-2%2F10%20Projects-FF6B6B?style=for-the-badge&logo=github" />
+</div>
+
+## 🛠️ **Current Focus**
 
 <div align="center">
   <table>
@@ -159,10 +298,10 @@ fun_fact: I love turning coffee into code! ☕→💻
         <br><code>Python • Computer Vision • APIs</code>
       </td>
       <td align="center" width="300px">
-        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100px" />
-        <br><b>🌐 Web Applications</b>
-        <br>Full-stack solutions with modern frameworks
-        <br><code>Angular • React • Laravel</code>
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100px" />
+        <br><b>💰 Personal Finance Platform</b>
+        <br>Full-stack expense tracking solution
+        <br><code>React • FastAPI • PostgreSQL</code>
       </td>
     </tr>
   </table>
