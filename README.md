@@ -141,7 +141,7 @@ fun_fact: I love turning coffee into code! ☕→💻
   <a href="mailto:merino.cd.2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/carlos-merino-dev">
+  <a href="[https://linkedin.com/in/carlos-merino-dev](https://www.linkedin.com/in/carlos-daniel-merino-hernandez-b8ab532a6/)">
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DevMerino-XYZ">
