@@ -1,8 +1,8 @@
-**<h1 align="center"><b>Hello! I'm Carlos Merino</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello! I'm Carlos Merino</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Carlos+Merino;Backend+Developer+%7C+DevMerino-XYZ;Passionate+about+Automation;Computer+Vision+%26+APIs;From+Hermosillo,+Sonora+🇲🇽;Always+learning+something+new!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Carlos+Merino;Full-Stack+Developer+%7C+DevMerino-XYZ;Web+%26+Mobile+Development;Cloud+%26+DevOps+Engineer;From+Hermosillo,+Sonora+🇲🇽;Always+learning+something+new!">
   </a>
 </p>
 
@@ -16,12 +16,19 @@
 
 <br>
 
-- 👨‍💻 **Backend Developer** specialized in Python and APIs
+- 👨‍💻 **Full-Stack Developer** specialized in Python, Web & Mobile Development
 - 🎯 **DevMerino-XYZ** · he/him
 - 🌍 **Location:** Hermosillo, Sonora, Mexico
-- 🚀 Passionate about **automation** and **computer vision**
-- 🌱 Currently learning **Deep Learning**, **DevOps** and **Cloud Computing**
-- 💡 I love solving complex problems and creating efficient solutions
+- 🚀 Passionate about **automation**, **computer vision**, and **full-stack solutions**
+- 💾 **Database Expert:** SQL, NoSQL (MySQL, PostgreSQL, MongoDB)
+- 🌐 **Web Development:** Laravel, Angular, Django, React
+- 📱 **Mobile Development:** Flutter, Android SDK
+- 🎨 **UI/UX Design:** HTML, CSS, Material UI, Figma
+- ☁️ **Cloud & Infrastructure:** AWS EC2/RDS/S3/CloudWatch, Ubuntu Server, Docker
+- 🔧 **DevOps:** Git, GitHub Actions, CI/CD pipelines
+- 🛠️ **Maintenance & Support:** Hardware/software support, user assistance
+- 🌱 Currently learning **Deep Learning**, **Advanced DevOps** and **Cloud Architecture**
+- 💡 I love solving complex problems and creating efficient, scalable solutions
 - 📫 **Email:** [merino.cd.2003@gmail.com](mailto:merino.cd.2003@gmail.com)
 - 🤝 Open to collaborations and new opportunities
 
@@ -31,40 +38,33 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Tech Stack</b>
 
-<p align="center">
+<div align="center">
 
-- **Programming Languages**:
-    
-    ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-    ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=python,js,bash&theme=dark" />
 
-<br>   
-    
-- **Frameworks & APIs**:
+### **Databases**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
-   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-   ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+### **Web Development**
+<img src="https://skillicons.dev/icons?i=laravel,angular,django,react,html,css&theme=dark" />
 
-<br>
+### **Mobile Development**
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" />
 
-- **Tools & DevOps**:
+### **UI/UX Design**
+<img src="https://skillicons.dev/icons?i=figma,materialui&theme=dark" />
 
-    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    
-<br>
+### **Cloud & Servers**
+<img src="https://skillicons.dev/icons?i=aws,docker,ubuntu&theme=dark" />
 
-- **Development Environment**:
+### **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell&theme=dark" />
 
-    ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-    ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+### **Frameworks & APIs**
+<img src="https://skillicons.dev/icons?i=fastapi,flask,opencv&theme=dark" />
 
-</p>
+</div>
 
 <br>
 
@@ -154,4 +154,3 @@
 **Credits:** [Carlos Merino](https://github.com/DevMerino-XYZ) | **Last Updated:** January 2025
 
 </div>
-**
