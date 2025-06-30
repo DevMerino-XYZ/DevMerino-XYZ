@@ -57,7 +57,7 @@ fun_fact: I love turning coffee into code! ☕→💻
 ### 🔧 **Backend Power**
 <img src="https://skillicons.dev/icons?i=python,laravel,django,fastapi,flask,nodejs&theme=dark&perline=6" />
 
-### �� **Database Mastery**
+### 🎯 **Database Mastery**
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" />
 
 ### 📱 **Mobile Development**
@@ -288,14 +288,42 @@ fun_fact: I love turning coffee into code! ☕→💻
 ---
 
 <div align="center">
-  <h3>🎵 Currently Coding To</h3>
+  <h2>🎵 <span style="color: #1DB954;">Currently Coding To</span> 🎵</h2>
+  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="50">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400px">
+        <a href="https://open.spotify.com/playlist/4h0o5PlyMQs1NF59LbkL7N?si=661216ea62174776">
+          <img src="https://img.shields.io/badge/🎧%20Code%20Sanctuary%20💻-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" width="300" />
+        </a>
+        <br><br>
+        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="120px" />
+        <br><br>
+        <h3>🎼 The Perfect Soundtrack for Deep Coding Sessions</h3>
+        <p><i>⏱️ <b>59 min 34 sec</b> of pure coding bliss</i></p>
+        <p><code>🎹 Instrumental • 🌊 Ambient • 🎛️ Electronic • 🧘 Focus</code></p>
+        <br>
+        <p>📝 <b>Description:</b> <i>"From debugging at 3AM to deploying on Friday afternoons"</i></p>
+        <p>🎵 <b>Features:</b> Kiasmos, Ólafur Arnalds, Max Richter, Tycho, GoGo Penguin, Nujabes, C418, Hans Zimmer</p>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
   <a href="https://open.spotify.com/playlist/4h0o5PlyMQs1NF59LbkL7N?si=661216ea62174776">
-    <img src="https://novatorem-kohl-ten.vercel.app/api/spotify" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/🎧%20Open%20in%20Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+  
   <br><br>
+  
   <img src="https://img.shields.io/badge/🎧%20Favorite%20Genre-Lo--Fi%20Hip%20Hop-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎵%20Coding%20Playlist-Deep%20Focus-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎵%20Coding%20Mood-Deep%20Focus-4ECDC4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔊%20Volume-Always%2011-FFD93D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕%20Perfect%20With-Coffee-8B4513?style=for-the-badge" />
 </div>
 
 ---
