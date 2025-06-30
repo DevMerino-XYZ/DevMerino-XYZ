@@ -100,11 +100,6 @@ fun_fact: I love turning coffee into code! ☕→💻
   </table>
 </div>
 
-### 🎯 **Development Pipeline**
-```
-🟢 Foundation → 🟡 Intermediate → 🔴 Advanced
-Restaurant System • Health AI • Learning Platform • Computer Vision
-```
 
 ## 📊 **GitHub Analytics**
 
