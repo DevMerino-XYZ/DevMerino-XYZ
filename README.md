@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
 
@@ -76,8 +75,7 @@
 
 | Proyecto | Descripción | Tecnologías | Estado |
 |----------|-------------|-------------|---------|
-| [**automationHR-development**](https://github.com/DevMerino-XYZ/automationHR-development) | Plataforma de automatización de RRHH usando visión por computadora y APIs | Python, OpenCV, FastAPI | 🔄 En desarrollo |
-| [**DroidCam Integration**](https://github.com/DevMerino-XYZ/droidcam-project) | Sistema de captura y análisis de video en tiempo real | Python, OpenCV, Streaming | ✅ Activo |
+
 
 <br>
 
