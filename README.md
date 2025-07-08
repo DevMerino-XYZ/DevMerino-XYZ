@@ -43,34 +43,6 @@ fun_fact: I love turning coffee into code! ☕→💻
 <br clear="right"/>
 
 ---
-
-<div align="center">
-  <h2>⚡ <span style="color: #4ECDC4;">Tech Arsenal</span> ⚡</h2>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50">
-</div>
-
-<div align="center">
-
-### 🎨 **Frontend Magic**
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,js,materialui,figma&theme=dark&perline=7" />
-
-### 🔧 **Backend Power**
-<img src="https://skillicons.dev/icons?i=python,laravel,django,fastapi,flask,nodejs&theme=dark&perline=6" />
-
-### 🎯 **Database Mastery**
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" />
-
-### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark&perline=4" />
-
-### ☁️ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,ubuntu,git,github&theme=dark&perline=7" />
-
-### 🛠️ **Tools & More**
-<img src="https://skillicons.dev/icons?i=vscode,postman,opencv,tensorflow,bash,powershell&theme=dark&perline=6" />
-
-</div>
-
 ---
 
 ## 🚀 **Featured Projects**
